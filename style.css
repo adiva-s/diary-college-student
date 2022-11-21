@@ -1,0 +1,86 @@
+body{
+    background: rgba(199, 126, 76, 1.0);
+    background: -webkit-radial-gradient(center, rgba(199, 126, 76, 1.0), rgba(179, 199, 194, 1.0));
+    background: -moz-radial-gradient(center, rgba(199, 126, 76, 1.0), rgba(179, 199, 194, 1.0));
+    background: radial-gradient(ellipse at center, rgba(199, 126, 76, 1.0), rgba(179, 199, 194, 1.0));
+    background-attachment: fixed;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.heading{
+    text-align: center;   
+    padding-top: 100px;     
+    padding-bottom: 25px;
+}
+.about{
+    height: 190px;
+    width: 90%;
+    margin: 0px 90px 0px 75px;
+    text-align: center;
+}
+
+.entrylist{
+    padding-left: 100px;
+}
+
+#fall2020{
+    text-align: left;
+    height: 400px;
+    width: 80%;
+    margin: 0px 90px 0px 90px;
+}
+
+#spring2021{
+    text-align: left;
+    height: 500px;
+    width: 80%;
+    margin: 0px 90px 0px 90px;
+}
+
+#fall2021{
+    text-align: left;
+    height: 3450px;
+    width: 80%;
+    margin: 0px 90px 0px 90px;
+}
+
+#spring2022{
+    text-align: left;
+    height: 500px;
+    width: 80%;
+    margin: 0px 90px 0px 90px;
+}
+
+#fall2022{
+    text-align: left;
+    height: 1500px;
+    width: 80%;
+    margin: 0px 90px 0px 90px;
+}
+
+a{
+    font-size: 20px;
+}
+
+a:link{
+    color:aliceblue
+}
+
+a:visited{
+    color: brown
+}
+
+a:hover{
+    color: blue;
+}
+
+p{
+    padding-bottom: 25px;
+    text-align: center;
+}
+
+.years{
+    padding-left: 100px;
+    padding-bottom: 50px;
+}
