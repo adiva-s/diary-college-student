@@ -59,6 +59,10 @@ body{
     margin: 0px 90px 0px 90px;
 }
 
+h1{
+   text-align: center;
+}
+
 a{
     font-size: 20px;
 }
