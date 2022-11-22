@@ -68,11 +68,11 @@ a{
 }
 
 a:link{
-    color:aliceblue
+    color: brown;
 }
 
 a:visited{
-    color: brown
+    color: brown;
 }
 
 a:hover{
